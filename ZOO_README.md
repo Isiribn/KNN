@@ -1,0 +1,2 @@
+# KNN
+Implement a KNN model to classify the animals in to categories
